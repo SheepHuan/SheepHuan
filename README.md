@@ -6,7 +6,7 @@
 
 I am pursuing a master's degree in Software Engineering in School of Computer science, Central South University.
 
-- 📫 How to reach me: huanyang@outlook.com
+- 📫 How to reach me: huan.young@outlook.com
 
 - ⚡ Research interests:  **Deep Learning**, **HPC** ...
 
